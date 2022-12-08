@@ -1,2 +1,2 @@
 # htmlsimple
-Simple website I did for school, it's on Serbian language but just change it on something different. 
+Simple website I did for school, it's on Serbian language but just change it to something different. 
